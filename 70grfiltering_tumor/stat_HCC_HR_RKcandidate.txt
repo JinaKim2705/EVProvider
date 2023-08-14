@@ -1,0 +1,2 @@
+"rownames(HR_result)"	"beta"	"HR"	"HR_CI.95..CI.for.HR."	"Likelihood.test"	"p.value"
+"P50281"	"0.82"	"2.3"	" (1.2-4.4)"	"6.7"	"0.0095"
